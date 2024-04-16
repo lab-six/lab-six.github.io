@@ -1,0 +1,35 @@
+# Jekyll
+/_site/
+/.jekyll-cache/
+.jekyll-metadata
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Dependency directories
+/vendor/
+/node_modules/
+/bower_components/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.sqlite
+*.swp
+
+# Build files
+_site/
+.sass-cache/
+.jekyll-metadata
